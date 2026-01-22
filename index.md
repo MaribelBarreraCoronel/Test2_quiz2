@@ -14,7 +14,7 @@ title: Test quiz
 
 <div class="iframe-wrapper">
   <iframe
-    src="https://language-everywhere.com/Temas/La_fiesta.html/embed"
+    src="https://app.lumi.education/api/v1/run/bEUyrC/embed"
     allowfullscreen
     loading="lazy">
   </iframe>
