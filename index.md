@@ -22,4 +22,4 @@ title: Test quiz
 
 
 ---
-### Mobile users: #### for best experience, rotate your phone to landscape mode.
+**Mobile users:** for best experience, rotate your phone to landscape mode.
