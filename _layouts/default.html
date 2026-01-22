@@ -8,8 +8,24 @@
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
+
+<div class="page">
+
+  <nav class="sidebar">
+    <h3>Quizzes</h3>
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">Overview</a></li>
+      <li><a href="{{ '/quiz-1' | relative_url }}">Quiz 1</a></li>
+      <li><a href="{{ '/quiz-2' | relative_url }}">Quiz 2</a></li>
+      <li><a href="{{ '/quiz-3' | relative_url }}">Quiz 3</a></li>
+    </ul>
+  </nav>
+
   <main class="content">
     {{ content }}
   </main>
+
+</div>
+
 </body>
 </html>
