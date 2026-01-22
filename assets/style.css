@@ -39,3 +39,8 @@
   padding: 40px;
   background: #ffffff;
 }
+
+/* Inner content wrapper for readability */
+.content-inner {
+  max-width: 1000px;
+}
